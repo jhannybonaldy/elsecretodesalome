@@ -180,6 +180,21 @@ header p{
     margin-bottom: 30px;
 }
 
+.text-whatsapp{
+    color: yellow;
+    font-size: 15px;
+}
+
+.link-whatsapp{
+    width: 50%;
+}
+
+.link-whatsapp img{
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
 .offer__warranty{width: 70%;}
 
 /* FACEBOOK COMMENTS */
@@ -306,6 +321,10 @@ footer p{
         margin-top: 30px;
         margin-bottom: 30px;
     }
-
+    
+    .link-whatsapp img{
+        max-width:100px;
+    }
+    
     .offer__warranty{width: 40%;}
 }
